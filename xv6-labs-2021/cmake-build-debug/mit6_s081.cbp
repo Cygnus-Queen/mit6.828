@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="mit6_s081"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/tmp/tmp.YxyS83CBwc/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.YxyS83CBwc/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.YxyS83CBwc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.YxyS83CBwc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.YxyS83CBwc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/tmp/tmp.YxyS83CBwc/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.YxyS83CBwc/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.YxyS83CBwc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.YxyS83CBwc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.YxyS83CBwc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/tmp/tmp.YxyS83CBwc/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.YxyS83CBwc/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.YxyS83CBwc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.YxyS83CBwc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.YxyS83CBwc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mit6_s081">
+				<Option output="/tmp/tmp.YxyS83CBwc/cmake-build-debug/mit6_s081" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.YxyS83CBwc/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/tmp/tmp.YxyS83CBwc/kernel"/>
+					<Add directory="/tmp/tmp.YxyS83CBwc/user"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.YxyS83CBwc/cmake-build-debug/Makefile&quot;  VERBOSE=1 mit6_s081"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.YxyS83CBwc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.YxyS83CBwc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.YxyS83CBwc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mit6_s081/fast">
+				<Option output="/tmp/tmp.YxyS83CBwc/cmake-build-debug/mit6_s081" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.YxyS83CBwc/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/tmp/tmp.YxyS83CBwc/kernel"/>
+					<Add directory="/tmp/tmp.YxyS83CBwc/user"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.YxyS83CBwc/cmake-build-debug/Makefile&quot;  VERBOSE=1 mit6_s081/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.YxyS83CBwc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.YxyS83CBwc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.YxyS83CBwc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/Makefile">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/kernel/bio.c">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/kernel/buf.h">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/kernel/console.c">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/kernel/date.h">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/kernel/defs.h">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/kernel/elf.h">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/kernel/exec.c">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/kernel/fcntl.h">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/kernel/file.c">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/kernel/file.h">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/kernel/fs.c">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/kernel/fs.h">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/kernel/kalloc.c">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/kernel/log.c">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/kernel/main.c">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/kernel/memlayout.h">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/kernel/param.h">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/kernel/pipe.c">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/kernel/plic.c">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/kernel/printf.c">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/kernel/proc.c">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/kernel/proc.h">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/kernel/ramdisk.c">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/kernel/riscv.h">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/kernel/sleeplock.c">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/kernel/sleeplock.h">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/kernel/spinlock.c">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/kernel/spinlock.h">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/kernel/start.c">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/kernel/stat.h">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/kernel/string.c">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/kernel/syscall.c">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/kernel/syscall.h">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/kernel/sysfile.c">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/kernel/sysproc.c">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/kernel/trap.c">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/kernel/types.h">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/kernel/uart.c">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/kernel/virtio.h">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/kernel/virtio_disk.c">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/kernel/vm.c">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/mkfs/mkfs.c">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/user/cat.c">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/user/echo.c">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/user/forktest.c">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/user/grep.c">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/user/grind.c">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/user/init.c">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/user/kill.c">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/user/ln.c">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/user/ls.c">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/user/mkdir.c">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/user/printf.c">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/user/rm.c">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/user/sh.c">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/user/stressfs.c">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/user/ulib.c">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/user/umalloc.c">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/user/user.h">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/user/usertests.c">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/user/wc.c">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/user/zombie.c">
+			<Option target="mit6_s081"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.YxyS83CBwc/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
